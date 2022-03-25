@@ -1,6 +1,6 @@
 ![Gabriel Duran](/banner.svg)
 
-## Olá, me chamo Gabriel! 👋
+## Olá, tudo certo? 👋
 
 - 💻 Sou programador fullstack
 - ⚡ Trabalho com... sistemas web
