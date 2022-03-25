@@ -6,7 +6,7 @@
 - ⚡ Trabalho com sistemas web
 - 🌱 Atualmente... aperfeiçoando meu inglês
 - 💬 Me chame em `gabrielduranguimaraes@gmail.com`  para colaborações
-- 😄 Curiosidade: adoro de paixão coca-cola  
+- 😁 Curiosidade: adoro de paixão coca-cola  
 
 ### Tecnologias que domino
 
