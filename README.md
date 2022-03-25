@@ -3,7 +3,7 @@
 ## Olá, tudo certo? 👋
 
 - 💻 Sou programador fullstack
-- ⚡ Trabalho com... sistemas web
+- ⚡ Trabalho com sistemas web
 - 🌱 Atualmente... aperfeiçoando meu inglês
 - 💬 Me chame em `gabrielduranguimaraes@gmail.com`  para colaborações
 - 😄 Curiosidade: adoro de paixão coca-cola  
